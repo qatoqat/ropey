@@ -23,7 +23,7 @@ simd = ["str_indices/simd"]
 small_chunks = []
 
 [dependencies]
-smallvec = "1.0.0"
+smallvec = "1.14.0"
 str_indices = { version = "0.4", default-features = false }
 
 [dev-dependencies]
